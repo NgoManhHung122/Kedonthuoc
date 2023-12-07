@@ -1,0 +1,9 @@
+HÀ NHẬT PHONG 21CNTT1: 40%
+NGÔ MẠNH HÙNG 21CNTT1: 40%
+VÕ VĂN THÁI 21CNTT: 15%
+VÕ THANH HUY 21CNNT2: 5%
+Các bước deploy:
+b1:cài xampp
+b2: giải nén và bỏ file mới nén vào thư mục htdocs của xampp
+b3: khởi động xampp và bật apache và mysql
+b4: vào trình duyệt, gõ: http://localhost/kedon/
